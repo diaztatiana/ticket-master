@@ -2,4 +2,4 @@
 
 First time on git
 
-foo
+Add feature
