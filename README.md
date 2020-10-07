@@ -1,5 +1,5 @@
 # Git demo
 
-First time on git
+TM app becomes alive
 
 Add feature
